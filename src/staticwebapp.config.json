@@ -4,7 +4,7 @@
       "route": "/",
       "redirect": "/something"
     }
-  ]
+  ],
   "forwardingGateway": {
     "allowedForwardedHosts": [ "mydomain.net" ],
   }
