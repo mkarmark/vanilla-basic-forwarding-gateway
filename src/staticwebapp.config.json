@@ -1,4 +1,10 @@
 {
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "/something"
+    }
+  ]
   "forwardingGateway": {
     "allowedForwardedHosts": [ "mydomain.net" ],
     "customHostHeaderName": "custom-host-header",
