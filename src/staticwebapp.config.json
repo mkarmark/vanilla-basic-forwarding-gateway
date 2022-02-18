@@ -6,9 +6,7 @@
     }
   ],
   "forwardingGateway": {
-    "allowedForwardedHosts": [ "mydomain.net" ],
-    "customHostHeaderName": "custom-host-header",
-    "customProtoHeaderName": "custom-proto-header"
+    "allowedForwardedHosts": [ "mydomain.net" ]
   },
   "auth": {
     "identityProviders": {
